@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+
+# 二进制可执行文件
+cas-offinder
+
+# 运行时产生的临时文件
+input.txt
+output.txt
+output_gpu.txt
+
+# 大型基因组数据文件
+ncbi_dataset/
